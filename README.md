@@ -2,7 +2,7 @@
 
 This project is clone and updated from the old s3a-selenium Testing Project
 
-Testcase are put in resources > testcase   
+Testcase are put in resources > testcase
 output report with screen captures
 
 Tested on Windows & mac
